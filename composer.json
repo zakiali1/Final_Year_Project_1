@@ -1,0 +1,17 @@
+{
+  "name": "zakiali1/final-year-project-1",
+  "description": "Online Compiler Project",
+  "type": "project",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "classmap": [
+      "."
+    ]
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}
